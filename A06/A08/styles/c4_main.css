@@ -9,13 +9,13 @@ header img {
 	float: left;
 }
 header h2 {
-	top: 30px;
+	margin-top: 30px;
 	font-size: 170%;
 	color: #800000;
 }
 
 header h3 {
-	top: 30px;
+	margin-top: 30px;
 	font-style: bold;
 	font-size: 130%;
 

@@ -8,6 +8,9 @@ body {
 }
 
 /* the styles for the header */
+header shadow {
+	text-shadow: 2px 2px 4px #333;
+}
 header img {
 	float: left;
 }
